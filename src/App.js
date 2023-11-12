@@ -1,9 +1,10 @@
+import Gallery from "./component/Gallery/Gallery";
 
 
 function App() {
   return (
     <div className="App">
-      asdf
+      <Gallery/>
     </div>
   );
 }
